@@ -17,5 +17,10 @@
     <li>It contains all the images used in frontend</li>
     </ul>
     </td>
+    <td>
+    <ul>
+    <li>It contains all the frontend and backend files</li>
+    </ul>
+    </td>
 </tr>
 </table>
