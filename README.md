@@ -24,3 +24,10 @@
     </td>
 </tr>
 </table>
+
+## <u>app.py</u>
+
+# About files in templates folder:
+## signup.html
+## login.html
+## iplan.html 
