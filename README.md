@@ -1,3 +1,6 @@
+# <u>app.py:</u>
+<p>It is the python file which connects frontend and backend</p>
+
 # About Folders
 <table>
 <tr>
@@ -18,9 +21,12 @@
 </tr>
 </table>
 
-## <u>app.py</u>
-
 # About files in templates folder:
-## signup.html
-## login.html
-## iplan.html 
+## signup.html: 
+<p>If the user is not registered on the iPlan application they can create an account on this page and they will get registered.</p>
+
+## login.html:
+<p>If the user is already registered, they can use their credentials to login and will get transferred to the main page.</p>
+
+## iplan.html:
+<p>On this page an user can find information about their pending projects, resource availability on their projects for the next three months, and many more.</p>
